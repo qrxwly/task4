@@ -1,0 +1,13 @@
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\Storage.dll.config
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\Storage.dll
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\Storage.pdb
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\obj\Debug\Storage.csproj.AssemblyReference.cache
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\obj\Debug\Storage.dll
+C:\Users\bazil\source\repos\WpfApp4\ClassLibrary1\obj\Debug\Storage.pdb
